@@ -1,4 +1,4 @@
-# Lights Out Game
+# Tower Of Hanoi
 
 #### Bu uygulamayı [webdevcody](https://www.youtube.com/@WebDevCody) You Tube kanalındaki Tower of Hanoi challenge'ı için yaptım.
 
